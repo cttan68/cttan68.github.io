@@ -95,6 +95,7 @@ collections:
     permalink: /:collection/:name
 
 #theme: no-style-please
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 
 paginate: 1
